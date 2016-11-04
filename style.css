@@ -1,0 +1,13 @@
+#nickCage {
+  height: 50vh;
+  color: white;
+  font-size: 4rem;
+  background-image: url('https://s.aolcdn.com/hss/storage/midas/627f1d890718ff2c58318a280145a153/203216448/nicholas-cage-con-air.jpg');
+}
+
+#chuckNorris {
+  height: 50vh;
+  font-size: 4rem;
+  color: white;
+  background-image: url('http://cdn.business2community.com/wp-content/uploads/2016/03/Vd3MJo.jpg');
+}
